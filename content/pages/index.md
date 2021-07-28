@@ -62,7 +62,7 @@ sections:
       arrow: true
 seo:
   title: Paulette & Lulu
-  description: The preview of the Planty theme
+  description: Description
   extra:
     - name: 'og:type'
       value: website
