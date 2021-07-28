@@ -82,7 +82,7 @@ seo:
     - name: 'twitter:title'
       value: Paulette & Lulu
     - name: 'twitter:description'
-      value: The preview of the Planty theme
+      value: Description
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
